@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/exchange-rate/static/css/main.c2cab247.css",
-    "main.js": "/exchange-rate/static/js/main.30e69597.js",
+    "main.css": "/exchange-rate/static/css/main.83927db4.css",
+    "main.js": "/exchange-rate/static/js/main.84f98201.js",
     "static/js/787.ac34fb11.chunk.js": "/exchange-rate/static/js/787.ac34fb11.chunk.js",
     "static/media/error.gif": "/exchange-rate/static/media/error.4fe6fa3267fd49601987.gif",
-    "static/media/symbol-h.svg": "/exchange-rate/static/media/symbol-h.e09ba45235bf9322c1210e32804468b5.svg",
+    "static/media/bitcoin-logo.svg": "/exchange-rate/static/media/bitcoin-logo.12010fc47b9b5a74de46f6771c5abf0d.svg",
+    "static/media/dollar.svg": "/exchange-rate/static/media/dollar.8abe1b8749b910c5f0ed4fe3501a8b22.svg",
+    "static/media/ethereum-logo.svg": "/exchange-rate/static/media/ethereum-logo.d5e94549b977ec64dbfc0c70da3b0645.svg",
+    "static/media/tether-logo.svg": "/exchange-rate/static/media/tether-logo.70f4ee1608e9dfd4738e5f4ea1f705d0.svg",
     "index.html": "/exchange-rate/index.html",
-    "main.c2cab247.css.map": "/exchange-rate/static/css/main.c2cab247.css.map",
-    "main.30e69597.js.map": "/exchange-rate/static/js/main.30e69597.js.map",
+    "main.83927db4.css.map": "/exchange-rate/static/css/main.83927db4.css.map",
+    "main.84f98201.js.map": "/exchange-rate/static/js/main.84f98201.js.map",
     "787.ac34fb11.chunk.js.map": "/exchange-rate/static/js/787.ac34fb11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2cab247.css",
-    "static/js/main.30e69597.js"
+    "static/css/main.83927db4.css",
+    "static/js/main.84f98201.js"
   ]
 }
