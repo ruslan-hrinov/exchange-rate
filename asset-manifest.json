@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/exchange-rate/static/css/main.83927db4.css",
-    "main.js": "/exchange-rate/static/js/main.bfcd40a0.js",
+    "main.js": "/exchange-rate/static/js/main.ab9f3767.js",
     "static/js/787.ac34fb11.chunk.js": "/exchange-rate/static/js/787.ac34fb11.chunk.js",
     "static/media/error.gif": "/exchange-rate/static/media/error.4fe6fa3267fd49601987.gif",
     "static/media/bitcoin-logo.svg": "/exchange-rate/static/media/bitcoin-logo.12010fc47b9b5a74de46f6771c5abf0d.svg",
@@ -10,11 +10,11 @@
     "static/media/tether-logo.svg": "/exchange-rate/static/media/tether-logo.70f4ee1608e9dfd4738e5f4ea1f705d0.svg",
     "index.html": "/exchange-rate/index.html",
     "main.83927db4.css.map": "/exchange-rate/static/css/main.83927db4.css.map",
-    "main.bfcd40a0.js.map": "/exchange-rate/static/js/main.bfcd40a0.js.map",
+    "main.ab9f3767.js.map": "/exchange-rate/static/js/main.ab9f3767.js.map",
     "787.ac34fb11.chunk.js.map": "/exchange-rate/static/js/787.ac34fb11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83927db4.css",
-    "static/js/main.bfcd40a0.js"
+    "static/js/main.ab9f3767.js"
   ]
 }
